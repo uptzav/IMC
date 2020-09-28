@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+
+    <string name="Cambiar_Lenguaje" translatable="true">Change Language</string>
+    <string name="Peso_Kg" translatable="true">Weight - Kg</string>
+    <string name="Altura_Mt" translatable="true">Height - Meters</string>
+    <string name="Calcular" translatable="true">Calculate</string>
+
+</resources>
